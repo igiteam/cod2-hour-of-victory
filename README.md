@@ -30,6 +30,8 @@ A total conversion mod for Call of Duty 2 that remakes the 2007 game Hour of Vic
 
 [![Call of Duty 2](https://cdn.mobygames.com/covers/20494583-call-of-duty-2-windows-front-cover.jpg)](https://archive.org/details/callofduty2usa)
 
+[![Hour of Victory](https://raw.githubusercontent.com/igiteam/cod2-hour-of-victory/refs/heads/main/hour-of-victory-cover.jpg)](https://archive.org/details/hour-of-victory)
+
 # opencod2
 
 > A reconstruction of the **Call of Duty 2** engine
