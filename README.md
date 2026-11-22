@@ -226,6 +226,9 @@ preservation, interoperability, research, and education. It is provided as-is,
 without warranty of any kind, express or implied. The original port, build
 system, and platform glue are separable original work.
 
+If you are a rights holder and believe something here should not be distributed,
+please open an issue or contact the maintainer and it will be addressed
+promptly.
 
 
 ## Dev Environment
@@ -262,6 +265,4 @@ system, and platform glue are separable original work.
 
 ---
 
-If you are a rights holder and believe something here should not be distributed,
-please open an issue or contact the maintainer and it will be addressed
-promptly.
+
