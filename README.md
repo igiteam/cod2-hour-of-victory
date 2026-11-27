@@ -26,6 +26,10 @@ A total conversion mod for Call of Duty 2 that remakes the 2007 game Hour of Vic
 
 [Call of Duty 2 COD2Radiant Tutorials](https://www.youtube.com/playlist?list=PLzlHQaNpSPoVf6JkCrly_Q_3dBmYTi-Il)
 
+[https://www.mediafire.com/file/1wlh7zjys6p986l/UO2ktexturesv1.rar/file](https://www.mediafire.com/file/1wlh7zjys6p986l/UO2ktexturesv1.rar/file)
+
+[https://www.mediafire.com/file/1ktq6npki9yc1kw/CoD2kTextures.rar/file](https://www.mediafire.com/file/1ktq6npki9yc1kw/CoD2kTextures.rar/file)
+
 [https://www.moddb.com/games/call-of-duty-2/downloads/call-of-duty-2-mod-tools](https://www.moddb.com/games/call-of-duty-2/downloads/call-of-duty-2-mod-tools)
 
 [![Call of Duty 2](https://cdn.mobygames.com/covers/20494583-call-of-duty-2-windows-front-cover.jpg)](https://archive.org/details/callofduty2usa)
